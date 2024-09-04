@@ -1,2 +1,2 @@
 # spring-boot-crud-demo
-this is dpring boot cruut rest api demo
+this is spring boot crud rest api demo
